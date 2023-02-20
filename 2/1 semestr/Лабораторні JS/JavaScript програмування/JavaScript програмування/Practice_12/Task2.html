@@ -1,0 +1,60 @@
+﻿<html>
+<head>
+    <title>Practice 12_2</title>
+    <meta charset="utf-8">
+    <script src="./Scripts/Functions.js"></script>
+    <link rel="stylesheet" href="./Styles/Default.css">
+</head>
+<body class="body">
+    <div class="hcenter">
+        <h3>Облік надходження товарів</h3>
+        <table id="tovar">
+            <tr>
+                <td><b>Найменування товару</b></td>
+                <td><b>Кількість одиниць</b></td>
+                <td><b>Вартість одиниці</b></td>
+                <td><b>Загальна вартість</b></td>
+            </tr>
+            <tr>
+                <td>Стілл комп'ютерний</td>
+                <td>8000 грн</td>
+                <td>4</td>
+                <td>32000 грн</td>
+            </tr>
+            <tr>
+                <td>Стіл кухонний</td>
+                <td>6000 грн</td>
+                <td>5</td>
+                <td>30000 грн</td>
+            </tr>
+            <tr>
+                <td>Стілець офісний</td>
+                <td>3500 грн</td>
+                <td>9</td>
+                <td>31500 грн</td>
+            </tr>
+            <tr>
+                <td>Стілець барний</td>
+                <td>2500 грн</td>
+                <td>8</td>
+                <td>20000 грн</td>
+            </tr>
+            <tr>
+                <td colspan="3">Всього</td>
+                <td>111500 грн</td>
+            </tr>
+        </table>
+        <br />
+        <h3>Зміна значень</h3>
+        <p>Товар <select id="art">
+            <option value="1">Стілл комп'ютерний</option>
+            <option value="2">Стіл кухонний</option>
+            <option value="3">Стілець офісний</option>
+            <option value="4">Стілець барний</option>
+        </select></p>
+        <p>Ціна <input id="price" style="width: 120px" type="number" value="10000" min="100" max="99999" /></p>
+        <p>Кількість <input id="count" style="width: 80px" type="number" value="1" min="0" max="999"/></p>
+        <p style="cursor: pointer" onclick="Update(art.value, price.value, count.value)">Оновити</p>
+    </div>
+</body >
+</html >

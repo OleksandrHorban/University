@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>08-JS02</title>
+</head>
+<body ID="Body" onclick="rodEl(event)">
+    <style>
+        body {
+            background-color: rgb(142, 172, 165);
+            text-align: center;
+            margin: 150px auto;
+            max-width: fit-content;
+        }
+        #Pip {
+            text-align: right;
+            font-family: 'Times New Roman', sans-serif;
+            font-size: 24px;
+            
+        }
+    </style>
+    <img id="image" src="Зеленський.jpg">
+    <p id="text">Зеленський</p>
+    <script>
+        flag = 0;
+        function rodEl(event) {
+            id = event.target.id
+            doc = document.getElementById(id)
+            switch (id) {
+                case "image":
+                    doc.src = "Бандера.jpg"
+                    document.getElementById('text').innerHTML = "Бандера"
+                    break
+                case "text": 
+                    doc.style.color = 'red';
+                    break
+            }
+        }
+    </script>
+</body>
+</html>

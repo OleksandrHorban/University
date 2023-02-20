@@ -1,0 +1,244 @@
+function computeAreaOfARectangle(a, b) {
+    return (a * b);
+}
+
+var output = computeAreaOfARectangle(5, 9);
+console.log("computeAreaOfARectangle:");
+console.log(output);
+
+function computeAreaOfACircle(a) {
+    return (3.14 * (a * a));
+}
+
+output = computeAreaOfACircle(5);
+console.log("computeAreaOfACircle:");
+console.log(output);
+
+
+function computePower(a, b) {
+    return Math.pow(a, b);
+}
+
+output = computePower(6, 4);
+console.log("computePower:");
+console.log(output);
+
+function computeSquareRoot(a) {
+    return Math.sqrt(a);
+}
+
+output = computeSquareRoot(3);
+console.log("computeSquareRoot:");
+console.log(output);
+
+function getLengthOfThreeWords(a, b, c) {
+    return a.length + b.length + c.length;
+}
+
+output = getLengthOfThreeWords("vbn", "qweqw", "fsd");
+console.log("getLengthOfThreeWords:");
+console.log(output);
+
+function joinArrays(a, b) {
+    return a.concat(b);
+}
+
+output = joinArrays([-4, 2, -51, 9], [78, 1, 23, 8]);
+console.log("joinArrays:");
+console.log(output);
+
+function getProductOfAllEIementsAtProperty(a, b) {
+    let c = 1;
+    let key = b;
+    let arr = a[key];
+    if (Array.isArray(arr) == false || arr.length == 0) { return 0 }
+    for (let i = 0; i < arr.length; i++) {
+        c *= arr[i];
+    }
+    return c;
+}
+
+var obj = {
+    arr: [-7, 2, 8],
+    name: "Bill"
+}
+
+output = getProductOfAllEIementsAtProperty(obj, "name");
+console.log("getProductOfAllEIementsAtProperty:");
+console.log(output);
+
+function sumDigits(a) {
+    let sum = a
+        .toString()
+        .split('')
+        .map(Number)
+        .reduce(function (a, b) {
+            return a + b;
+        }, 0);
+    return sum;
+}
+
+output = sumDigits(2347);
+console.log("sumDigits:");
+console.log(output);
+
+function findShortestWordAmongMixedElements(arr) {
+    if (arr.length < 1) {
+        return 0;
+    }
+    let n = arr.length;
+    let lengh;
+    for (let i = 0; i < n; i++) {
+        if (typeof (arr[i]) === 'string') {
+            if (lengh === undefined) {
+                lengh = arr[i];
+            }
+            if (lengh > arr[i]) {
+                lengh = arr[i];
+            }
+        }
+    }
+    if (typeof (lengh) === undefined) { return 0 }
+    return lengh;
+}
+
+output = findShortestWordAmongMixedElements([3457, "abc", true, 'b', 'abcdef', false]);
+console.log("findShortestWordAmongMixedElements:");
+console.log(output);
+
+function findSmallestNumberAmongMixedElements(arr) {
+    if (arr.length < 1) {
+        return 0;
+    }
+    let n = arr.length;
+    let lengh;
+    for (let i = 0; i < n; i++) {
+        if (typeof (arr[i]) === 'number') {
+            if (lengh === undefined) {
+                lengh = arr[i];
+            }
+            if (lengh > arr[i]) {
+                lengh = arr[i];
+            }
+        }
+    }
+    if (typeof (lengh) === undefined) { return 0 }
+    return lengh;
+}
+array = ['werwer', 4, 22, 3, false, 4, 6, 8];
+output = findSmallestNumberAmongMixedElements(array);
+console.log("findSmallestNumberAmongMixedElements");
+console.log(output);
+
+function modul(a, b) {
+    if (typeof (a) !== 'number' || typeof (b) !== 'number') { return NaN }
+    while (a >= b) {
+        a -= b;
+    }
+    return a
+}
+
+output = modul(16, 4);
+console.log("modul:");
+console.log(output);
+
+function reverseString(str) {
+    var newString = "";
+    for (var i = str.length - 1; i >= 0; i--) {
+        newString += str[i];
+    }
+    return newString;
+}
+
+function fillEveryNChars(a, b) {
+    let arr = [];
+    let c = 0;
+    let d = b;
+    let n = a.length / b;
+    let revArr = [];
+    let join = "";
+    let temp = "";
+    for (let i = 0; i < n; i++) {
+        arr[i] = a.slice(c, d);
+        revArr[i] = reverseString(arr[i]);
+        temp = revArr[i];
+        join += temp;
+        c += b;
+        d += b;
+    }
+    return join;
+}
+
+output = fillEveryNChars("a short example", 8);
+console.log("fillEveryNChars:");
+console.log(output);
+
+function findPairsForSum(a, b) {
+    let str;
+    for (let i = 0; i < a.length; i++) {
+        for (let j = 0; j < a.length; j++) {
+            if (a[i] + a[j] == b) {
+                return str = ("[" + a[i] + "," + a[j] + "] = " + b);
+            }
+        }
+    }
+}
+
+output = findPairsForSum([1, 5, 5, 8], 5);
+console.log("findPairsForSum:");
+console.log(output);
+
+function isMirrorReflection(a, b) {
+    return a == reverseString(b) ? true : false;
+}
+
+output = isMirrorReflection("hello", "olleh");
+console.log("isMirrorReflection:");
+console.log(output);
+
+function searchNum(a, b) {
+    let str;
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] == b) { return i }
+    }
+    return str = ("No such number in array.");
+}
+
+output = searchNum([3, 7, 5, 69, 24, 74, 25], 31);
+console.log("searchNum:");
+console.log(output);
+
+function isIsogram(a) {
+    let arr = [];
+    let n = a.length;
+    let res;
+    let cnt = 0;
+    for (let i = 0; i < n; i++) {
+        arr = a.split('');
+    }
+    for (let i = 0; i < arr.length; i++) {
+        for (let j = 0; j < arr.length; j++) {
+            if (arr[i] == arr[j]) {
+                cnt++
+            } else { continue; }
+        }
+    }
+    if (cnt == a.length) {
+        return res = "isogrma";
+    } else {
+        return res = "not isogram.";
+    }
+}
+
+
+output = isIsogram("exact");
+console.log("isIsogram:");
+console.log(output);
+
+function checkPalindrom(a) {
+    return a == a.split('').reverse().join('');
+}
+
+output = checkPalindrom("alla");
+console.log("checkPalindrom:");
+console.log(output);

@@ -1,0 +1,27 @@
+<!DOCTYPE html >
+<html lang="en">
+<head>
+    <title>11-JS01</title>
+        <script type="text/javascript">
+        function Start() {
+            var x0 = 300,
+                y0 = 300,
+                R = 100,
+                A = 0,
+                PI2 = Math.PI * 2;
+                dA = PI2 / 64;
+                block = document.getElementById('block');
+            setInterval(function() {
+                block.style.left = Math.round(x0 + R * Math.cos(A)) + 'px';
+                block.style.top = Math.round(y0 + R * Math.sin(A)) + 'px';
+                A += dA;
+                if (A >= PI2) A -= PI2;
+                else if (A < 0) A += PI2;
+            }, 40);
+        };
+</script>
+</head>
+<body onload="Start()">
+<div id="block" style="position:absolute; width:30px; height:30px; background:rgb(68, 37, 180);"></div>
+</body>
+</html>

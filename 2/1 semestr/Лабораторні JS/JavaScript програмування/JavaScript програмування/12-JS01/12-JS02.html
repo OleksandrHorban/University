@@ -1,0 +1,78 @@
+<html>
+<head>
+    <title>Practice 12_2</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="body">
+    <div class="hcenter">
+        <h3>Облік надходження товарів</h3>
+        <table id="tovar">
+            <tr>
+                <td><b>Найменування товару</b></td>
+                <td><b>Кількість одиниць</b></td>
+                <td><b>Вартість одиниці</b></td>
+                <td><b>Загальна вартість</b></td>
+            </tr>
+            <tr>
+                <td>Стілл писемний</td>
+                <td>12000 грн</td>
+                <td>5</td>
+                <td>60000 грн</td>
+            </tr>
+            <tr>
+                <td>Стіл кухонний</td>
+                <td>6000 грн</td>
+                <td>5</td>
+                <td>30000 грн</td>
+            </tr>
+            <tr>
+                <td>Стілець</td>
+                <td>20 грн</td>
+                <td>1200</td>
+                <td>12000 грн</td>
+            </tr>
+            <tr>
+                <td>Шафа книжна</td>
+                <td>14200 грн</td>
+                <td>4</td>
+                <td>68800 грн</td>
+            </tr>
+            <tr>
+                <td colspan="3">Всього</td>
+                <td>220800 грн</td>
+            </tr>
+        </table>
+        <br />
+        <h3>Зміна значень</h3>
+        <p>Товар <select id="art">
+            <option value="1">Стілл писемний</option>
+            <option value="2">Стіл кухонний</option>
+            <option value="3">Стілець</option>
+            <option value="4">Шафа книжна</option>
+        </select></p>
+        <p>Ціна <input id="price" style="width: 120px" type="number" value="10000" min="100" max="99999" /></p>
+        <p>Кількість <input id="count" style="width: 80px" type="number" value="1" min="0" max="999"/></p>
+        <button style="cursor: pointer" onclick="update(art.value, price.value, count.value)">Оновити</button>
+    </div>
+    <script>
+        function update(artId, price, count) {
+            artId = +artId;
+            price = +price;
+            count = +count;
+
+            table = document.all.tovar;
+            let oldPrice = table.rows[artId].cells[1];
+            oldPrice = +oldPrice.innerHTML.slice(0, oldPrice.innerHTML.indexOf(" ")) * +table.rows[artId].cells[2].innerHTML;
+            table.rows[artId].cells[1].innerHTML = price + " грн";
+            table.rows[artId].cells[2].innerHTML = count;
+            table.rows[artId].cells[3].innerHTML = price * count + " грн";
+
+            let fullPrice = table.rows[table.rows.length - 1].cells[1];
+            fullPrice.innerHTML = fullPrice.innerHTML.slice(0, fullPrice.innerHTML.indexOf(" "));
+            fullPrice.innerHTML = +fullPrice.innerHTML + price * count - oldPrice + " грн";
+        }
+
+    </script>
+</body>
+</html>

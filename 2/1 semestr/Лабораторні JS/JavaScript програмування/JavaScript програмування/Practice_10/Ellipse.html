@@ -1,0 +1,25 @@
+﻿<html>
+<head>
+    <title>Practice 10_2</title>
+    <meta charset="utf-8">
+    <script src="./Scripts/Functions.js"></script>
+    <style>
+        .center {
+            position: relative;
+            padding: 5px;
+            left: 50%;
+            transform: translate(-50%);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <p>Set ellipse size</p>
+        <p>X-radius <input id="x" type="number" value="100" min="100" onmousedown="mouseDown(this, event)" onmouseup="mouseUp()" onchange="drawEllipse(x.value, y.value)" /></p>
+        <p>Y-radius <input id="y" type="number" value="100" min="100" onmousedown="mouseDown(this, event)" onmouseup="mouseUp()" onchange="drawEllipse(x.value, y.value)" /></p>
+        <button onclick="drawEllipse(x.value, y.value)">Draw</button>
+    </div>
+    <canvas class="center" id="canvas" width="100" height="100"></canvas>
+</body>
+</html>

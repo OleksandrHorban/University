@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>12-JS01</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body class="body" onload="inputBody()">
+        <script>
+            function inputBody() {
+                document.body.innerHTML =  '<div class="hcenter">' +
+                '<h3>Select function</h3>' +
+                '<select id="func">' +
+                '<option value="sin">sin</option>' +
+                '<option value="cos">cos</option>' +
+                '<option value="tan">tg</option>' +
+                '</select>' +
+                '<h3>Input params</h3>' +
+                '<p>Start <input id="x0" type="number" value="0"/></p>' +
+                '<p>End <input id="x1" type="number" value="5"/></p>' +
+                '<p>Step <input id="h" type="number" value="0.2"/></p>' +
+                '<button style="cursor: pointer" onclick="Calculate(func.value, x0.value, x1.value, h.value)">Calculate</button>' +
+                '</div>'
+            }
+            function Calculate(func, start, end, step) {
+                document.body.innerHTML = '<div class="hcenter">' +
+                '<h3>Result</h3>' +
+                '<table id="tab1">' +
+                '<tr>' +
+                '<td colspan="2"><b>Angle</b></td>' +
+                '<td rowspan="2"><b>' + func + '</b></td>' +
+                '</tr >' +
+                '<tr>' +
+                '<td>In degrees</td>' +
+                '<td>In radians</td>' +
+                '</tr>' +
+                '</table >' +
+                '<button style="cursor: pointer" onclick="inputBody()">Back</button>'
+
+                start = parseFloat(start);
+                end = +end;
+                step = +step;
+
+                if (start > end) {
+                    start += end;
+                    end = start - end;
+                    start -= end;
+                }
+
+                if (+step > 0) {
+                    step = Math.abs(step);
+                }
+
+                let command = "";
+                let row, cell;
+                while (start < end) {
+                    row = document.all.tab1.insertRow();
+                    cell = row.insertCell(0);
+                    cell.innerHTML = start;
+
+                    cell = row.insertCell(1);
+                    cell.innerHTML = start * Math.PI / 180;
+
+                    if (func != "ctg") command = "Math.";
+                    command += func + "( Math.PI / 180 * " + start + ")";
+
+                    cell = row.insertCell(2);
+                    cell.innerHTML = eval(command);
+
+                    start += step;
+                }
+            }
+        </script>
+    </body>
+</html>

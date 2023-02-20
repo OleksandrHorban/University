@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+    <title>Practice 10_1</title>
+    <meta charset="utf-8">
+    <script src="./Scripts/Functions.js"></script>
+    <style>
+        .center {
+            position: relative;
+            padding: 5px;
+            left: 50%;
+            transform: translate(-50%);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <img class="center" src="./Images/wiki.png" alt="Stellaris wiki">
+    <h2 class="center">Main Stellaris civic models</h2>
+    <p class="center">
+    <select onchange="changeCivicImg(this.options[this.selectedIndex].value)">
+        <option value="agrarian_idyll">Agrarian idyll</option>
+        <option value="beacon_of_liberty">Beacon of liberty</option>
+        <option value="citizen_service">Citizen service</option>
+        <option value="death_cult">Death cult</option>
+        <option value="idealistic_foundation">Idealistic foundation</option>
+        <option value="imperial_cult">Imperial cult</option>
+        <option value="reanimated_armies">Reanimated armies</option>
+        <option value="slaver_guilds">Slaver guilds</option>
+        <option value="technocracy">Technocracy</option>
+        <option value="warrior_culture">Warrior culture</option>
+    </select>
+    </p>
+    <img id="civic" class="center" src="./Images/50px-Civic_agrarian_idyll.png" alt="Agrarian idily">
+</body>
+</html>

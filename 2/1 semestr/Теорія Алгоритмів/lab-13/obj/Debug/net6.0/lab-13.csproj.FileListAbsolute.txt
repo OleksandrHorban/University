@@ -1,0 +1,15 @@
+D:\Projects\Теорія Алгоритмів\lab-13\bin\Debug\net6.0\lab-13.exe
+D:\Projects\Теорія Алгоритмів\lab-13\bin\Debug\net6.0\lab-13.deps.json
+D:\Projects\Теорія Алгоритмів\lab-13\bin\Debug\net6.0\lab-13.runtimeconfig.json
+D:\Projects\Теорія Алгоритмів\lab-13\bin\Debug\net6.0\lab-13.dll
+D:\Projects\Теорія Алгоритмів\lab-13\bin\Debug\net6.0\lab-13.pdb
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.csproj.AssemblyReference.cache
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.AssemblyInfoInputs.cache
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.AssemblyInfo.cs
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.csproj.CoreCompileInputs.cache
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.dll
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\refint\lab-13.dll
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.pdb
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\lab-13.genruntimeconfig.cache
+D:\Projects\Теорія Алгоритмів\lab-13\obj\Debug\net6.0\ref\lab-13.dll

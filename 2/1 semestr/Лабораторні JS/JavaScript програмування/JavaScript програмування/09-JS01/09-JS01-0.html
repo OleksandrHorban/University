@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Перша сторінка</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+        <h5 class="my-0 mr-md-auto font-weight-normal">Магазин меблів</h5>
+  </div>
+<div class="container">
+<form action="" method="post" name="F1">
+    <p>Тип виробу</p>  
+    <select name="type" class="form-control">
+        <option value="typefirst">Виберіть тип вибору</option>
+        <option value="shafa">Шафа</option>
+        <option value="table">Стіл</option>
+        <option value="chest">Стілець</option>
+        <option value="servant">Сервант</option>
+    </select>
+    <br>
+    <p>Матеріал</p> 
+    <select name="material" class="form-control">
+        <option value="materialfirst">Виберіть тип матеріалу</option>
+        <option value="dub">Дуб</option>
+        <option value="klen">Клен</option>
+        <option value="buk">Бук</option>
+        <option value="gorih">Горіх</option>
+    </select>
+    <br>
+    <p>Кількість</p>
+     <input type="text" name="count" placeholder="Кількість" class="form-control" onchange="arg(this)">
+    <br>
+    <input type="submit" value="ВВЕДЕННЯ" class="mt-2 btn btn-outline-success" onclick="Proverka()">
+</form>
+</div>
+<script>
+    function arg(fld) {
+        x = fld.value;
+        console.log(x);
+        x = parseInt(x);
+        console.log(x);
+        if (isNaN(x)) {
+            alert("Це поле приймає тільки цифри");
+            fld.focus();
+            fld.select();
+        }
+    }
+    function Proverka() {
+        type_meb = document.F1.type.value;
+        material_meb = document.F1.material.value;
+        kilkist = document.F1.count.value;
+        st = "";
+        if (type_meb == "typefirst") st = "тип вибору \n";
+        if (material_meb == "materialfirst") st += "матеріал \n";
+        if (kilkist == '') st += "кількість";
+        if (st == '') document.F1.action="09-JS1-0.php";
+        else {
+            str = "Введіть: \n" + st;
+            alert(str);
+            return false;
+        }
+    }
+</script>
+</body>
+</html>

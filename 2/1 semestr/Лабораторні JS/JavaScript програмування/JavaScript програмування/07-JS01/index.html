@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="zag" style="text-align: center;">Васька</h1>
+    <form name="f1" style="text-align: center;">
+        <input type="button" name="bot" onclick=bm() value="Збільшити">
+    </form>
+    <br> 
+    <img style="justify-content: center; align-items: center;" src="calculator.png" alt="img" id='Vas' onclick=bm()>
+    <script>
+        var flag = true;
+        function bm() {
+            if (flag) {
+                document.images[0].src='calculator.jpg' 
+                flag = false;
+                document.forms[0].bot.value='Зменшити';
+                document.forms[0].bot.style.background = 'red';
+                document.all.bot.style.color = 'black';
+            } else{
+                document.getElementById("Vas").src = 'calculator small.jpg';
+                document.forms[0].bot.value='Збільшити';
+                document.forms[0].bot.style.background = 'green';
+                document.all.bot.style.color='white';
+                flag = true;
+            }
+        }
+    </script>
+</body>
+</html>

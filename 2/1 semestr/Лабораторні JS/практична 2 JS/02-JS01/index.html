@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'> -->
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <title>Лабораторна_02-JS01</title>
+</head>
+<body>
+<h1 class="myclass n1">Mozilla - це класно!!!</h1>
+<p>Важлива інформація не буде відображена, поки не завантажиться скрипт.</p>
+<p>...Важлива інформація!</p>
+<div class="temp m1">Скількі буде у  Java Script 0.1 + 0.2 = ?</div>
+<script src="https://js.cx/hello/ads.js?speed=0"></script>
+<h1 class="myclass n2"></h1>
+<img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth." style="width:200px">
+<div class="temp m0"></div>
+<script >
+    console.log(0.1+0.2);
+    var sum = 0.1+0.2;
+    var result = document.getElementsByClassName("m1")[0];
+    result.innerHTML = "В Java Script " + "<br>"+ "  0.1 + 0.2 =  " + sum;
+    result.style.color = '#2d264a';
+</script>
+<p> Mozilla являє собою глобальне товариство:</p>
+<ul>
+    <li>розробників;</li>
+    <li>дизайнерів;</li>
+    <li>мислителів.</li>
+</ul>
+<p>Всі вони працють разом, щоб зробити Інтернет інтерактивним та доступним для всіх людей. </p>
+<p>Прочитайте маніфест розробників <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla</a>,
+    щоб дізнатися про цінності та принципи, які погладені в основу цієї місії.</p>
+<script src="scripts/prompt.js"></script>
+<script src="scripts/alert.js"></script>
+<script src="scripts/confirm.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <title>Практична робота_01-JS03</title>
+    <link rel="stylesheet" type="text/css" href="01-js03.css">
+</head>
+<body>
+    <h1><span id="dots"></span><span id="more">1 лабораторна з JS</span></h1>
+    <button id="btn" onclick="readMore()">Показати текст</button>
+    <script>
+function readMore(){
+    var more = document.getElementById("more");
+    var dots = document.getElementById("dots");
+    var btn = document.getElementById("btn");
+    if(dots.style.display === "none"){
+        dots.style.display = "inline";
+        btn.innerHTML="Показати текст";
+        more.style.display="none";
+    }
+    else{
+        dots.style.display = "none";
+        btn.innerHTML="Заховати текст";
+        more.style.display="inline";
+    }
+}
+    </script>
+</body>
+</html>

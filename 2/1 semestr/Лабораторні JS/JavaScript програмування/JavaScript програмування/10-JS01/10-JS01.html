@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10-JS01-1</title>
+</head>
+<body>
+    <p>Оберіть фотографію
+        <select onchange="prosm(this)" NAME="Photo">
+            <option value=""></option>
+            <option value="zelenskiy"> Зеленський </option>
+            <option value="bandera"> Бандера </option>
+            <option value="shuhevich"> Шухевич </option>
+            <option value="petlura"> Петлюра </option>
+            <option value="vynnychenko"> Винниченко </option>
+        </select>
+    </p>
+    <br>
+    <img>
+
+    <script>
+
+        var photo = new Array();
+        photo["zelenskiy"] = new Image(600, 500);
+        photo["zelenskiy"].src = "img/Zelenskiy.jpg";
+        photo["bandera"] = new Image(700, 400);
+        photo["bandera"].src = "img/Bandera.jpg";
+        photo["shuhevich"] = new Image(280, 380);
+        photo["shuhevich"].src = "img/Shuhevich.jpg";
+        photo["petlura"] = new Image(645, 450);
+        photo["petlura"].src = "img/Petlura.jpg";
+        photo["vynnychenko"] = new Image(290, 390);
+        photo["vynnychenko"].src = "img/Vynnychenko.jpg";
+
+        function prosm(list) {
+            d = list.options[list.selectedIndex].value
+            console.log(d);
+            document.images[0].src = photo[d].src;
+            document.images[0].width = photo[d].width;
+            document.images[0].height = photo[d].height;
+        }
+
+    </script>
+
+
+    <style>
+        body {
+            text-align: center;
+            background-color: rgba(162, 129, 144, 0.769); 
+        }
+    </style>
+</body>
+</html>

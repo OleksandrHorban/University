@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <title>Practic 01-js02</title>
+</head>
+<body>
+    Сторінка привітання <br>
+    "Hello World" <br>
+    <button id="hello" value="Кнопка привітання">Привітати світ</button>
+    <button id="back" onclick="remove()" value="Назад">Назад</button>
+
+    <script>
+        document.querySelector('button').onclick = myFunction;
+        function myFunction(){
+            "use strict";
+            var myHeading = document.querySelector('button');
+            myHeading.style.display = "none";
+            var h1 = document.createElement('h1');
+            h1.className = 'big';
+            h1.id = 'big';
+            document.body.appendChild(h1);
+            h1.appendChild(document.createTextNode("Я тебе вітаю світ!!!!"));
+            document.getElementsByTagName("h1")[0].style.color = 'red';
+            document.getElementById('big').style.fontSize = '4em';
+            document.getElementById('big').style.textAlign = 'center';
+        }
+
+        function remove(){
+            var hw = document.getElementsByTagName('h1')[0].lastChild;
+            hw.parentNode.removeChild(hw);
+            var hide = document.getElementById('back');
+            hide.style.display = 'none';
+            }
+    </script>
+</body>
+</html>

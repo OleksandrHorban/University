@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>08-JS01</title>
+</head>
+<body>
+    <h1>Події з мишкою</h1>
+    <p id="F1" onclick="F1()">Клацніть мишкою</p>
+    <p id="F2" onmouseover="F2Over()" onmousedown="F2Down()" onmouseup="F2UP()" >Натисніть, потримайте і відпустіть ліву кнопку мишки</p>
+    <p id="F3" onmouseover="F3Over()" onmouseout="F3Out()">Проведіть курсором мишки по цьому тексту</p>
+    <script>
+         flag = true
+        function F1() {
+            if (flag) {
+                flag = false;
+                document.getElementById('F1').style.background = 'grey'
+                document.getElementById('F1').style.color = 'white'
+                document.getElementById('F1').style.fontSize = '48pt'
+            }
+            else {
+                document.getElementById('F1').style.background = 'white'
+                document.getElementById('F1').style.color = 'black'
+                document.getElementById('F1').style.fontSize = '12pt'
+                flag = true
+            }
+        }
+        function F2Over() {
+            document.getElementById('F2').style.background = 'blue'
+        }
+        function F2Down() {
+            document.getElementById('F2').style.background = 'blue'
+        }
+        function F2UP() {
+            document.getElementById('F2').style.background = 'yellow'
+        }
+        function F3Over() {
+            document.getElementById('F3').style.background = 'red'
+        }
+        function F3Out() {
+            document.getElementById('F3').style.background = 'green'
+        }
+    </script>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</body>
+</html>

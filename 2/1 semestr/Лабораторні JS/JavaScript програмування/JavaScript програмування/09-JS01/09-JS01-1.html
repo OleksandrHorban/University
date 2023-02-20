@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>09-JS01-1</title>
+</head>
+<body name="BODY">
+    <h1>Тригонометричні функції</h1>
+    <h3>Кут має бути більше нулю та менше 90 градусів</h3>
+    <p>Кут в градусах</p>
+    <input type="text" name="degree" placeholder="Кут" onchange="arg(this)">
+    <p>Функція</p>
+    <select name="func">
+        <option value=""></option>
+        <option value="cos">косинус</option>
+        <option value="sin">синус</option>
+        <option value="tan">тангенс</option>
+    </select>
+    <p></p>
+    <input type="submit" value="ОБЧИСЛИТИ" onclick="Calc()">
+    <p id="result"></p>
+    <script>
+        function arg(fld) {
+        x = fld.value;
+        x = parseInt(x);
+        if (isNaN(x)) {
+            alert("Це поле приймає тільки цифри");
+            fld.focus();
+            fld.select();
+        }
+    }
+        function Calc() {
+            angle = document.all.degree.value;
+            console.log(angle);
+            angle = parseInt(angle);
+            angle_rad = angle * Math.PI/180;
+            func_sct = document.all.func.value;
+            console.log(func_sct);
+            if(angle < 0 || angle > 90) alert("Кут має бути більше нулю та менше 90 градусів");
+            if(angle == "" && func_sct == "") alert("Введіть значення кута та виберіть функцію");
+            else if(angle == "") alert("Введіть значення кута");
+            else if (func_sct == "") alert("Виберіть функцію");
+
+            str = "Math." + func_sct + "(" + angle_rad + ")";
+            if(func_sct == "cos") document.getElementById('result').innerHTML = "cos " + angle + "° = " + (Math.round((eval(str) + Number.EPSILON) * 100) / 100);
+            if(func_sct == "sin") document.getElementById('result').innerHTML = "sin " + angle + "° = " + (Math.round((eval(str) + Number.EPSILON) * 100) / 100);
+            if(func_sct == "tan") document.getElementById('result').innerHTML = "tan " + angle + "° = " + (Math.round((eval(str) + Number.EPSILON) * 100) / 100);
+        }
+    </script>
+</body>
+</html>

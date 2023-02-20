@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <title>Практична робота_01-JS02</title>
+</head>
+<body>
+Сторінка привітання <br>
+"Hello WORLD"<br>
+<button value="Кнопка вітання" id="btn" onclick="myFunction()">Привітати СВІТ</button>
+<script>
+    function myFunction() {
+      // Директива повної відповідності сучасним стандартам ECMAScript
+        "use strict";
+      // Пошук селектора <button>
+        var myHeading = document.getElementById("btn");
+      // Видалення  селектора <button> з потоку веб-сторінки
+        myHeading.style.display = "none";
+      // Створення елементу <h1>
+        var h1 = document.createElement('h1');
+      // Додавання до обєкту <h1> класу
+        h1.className = "big";
+       // Додавання до обєкту <h1> id
+        h1.id = "big";
+       // Додавання дочірнього елементу до DOM-вузла <body>
+        document.body.appendChild(h1); 
+       // Створення текстового вузла
+        h1.appendChild(document.createTextNode("Я ВІТАЮ ТЕБЕ СВІТ!!!")); 
+       // Застосування стилів до елементу <h1>
+        document.getElementsByTagName("h1")[0].style.color = "red";
+        document.getElementById("big").style.fontSize = "4em";
+        document.getElementById("big").style.textAlign = "center";
+    }
+</script>
+</body>
+</html>
