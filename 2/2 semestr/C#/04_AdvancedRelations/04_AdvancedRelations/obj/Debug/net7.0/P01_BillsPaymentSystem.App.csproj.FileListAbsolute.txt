@@ -1,0 +1,5 @@
+C:\Users\ACER 3\source\repos\04_AdvancedRelations\04_AdvancedRelations\obj\Debug\net7.0\P01_BillsPaymentSystem.App.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\04_AdvancedRelations\04_AdvancedRelations\obj\Debug\net7.0\P01_BillsPaymentSystem.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\04_AdvancedRelations\04_AdvancedRelations\obj\Debug\net7.0\P01_BillsPaymentSystem.App.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\04_AdvancedRelations\04_AdvancedRelations\obj\Debug\net7.0\P01_BillsPaymentSystem.App.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\04_AdvancedRelations\04_AdvancedRelations\obj\Debug\net7.0\P01_BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
