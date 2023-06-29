@@ -1,0 +1,67 @@
+﻿<Window x:Class="MVVM_Pet_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_Pet_2"
+  
+        Title="MainWindow" Height="250" Width="300" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style TargetType="Grid">
+            <Style.Setters>
+                <Setter Property="Background" Value="Cornsilk"/>
+            </Style.Setters>
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=buttonTablePets, Path=IsEnabled}" Value="True">
+                    <Setter Property="Background" Value="#FF00A3FC"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        
+        <Style TargetType="StackPanel">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=buttonTablePets, Path=IsEnabled}" Value="True">
+                    <Setter Property="Visibility" Value="Hidden"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="buttonTablePets" Grid.Column="0" IsEnabled="{Binding ButtonPetsIsEnabled}"
+                Command="{Binding OpenPetsWindow}"
+                Content="Таблиця тваринок" Height="50" Margin="3"/>
+        <Button Grid.Column="1" IsEnabled="{Binding ButtonClientsIsEnabled}"
+                Command="{Binding OpenClientsWindow}"
+                Content="Таблиця клієнтів" Height="50" Margin="3"/>
+
+
+        <StackPanel x:Name="stackPanel" Grid.Row="1" Width="200" 
+                    Grid.ColumnSpan="2" Margin="10 20 10 10"
+                    Panel.ZIndex="1">
+            <TextBlock Text="Логін" Margin="3"/>
+            <TextBox Text="{Binding LoginText, UpdateSourceTrigger=PropertyChanged}" Margin="3"/>
+            <TextBlock Text="Пароль" Margin="3"/>
+            <PasswordBox Name="PasswordBox" Margin="3"/>
+            <Button Command="{Binding LoginCommand}" CommandParameter="{Binding ElementName=PasswordBox}" IsDefault="True" Margin="10" Content="Вхід" Width="80"/>
+        </StackPanel>
+
+        <TextBlock     Grid.Row="1" Width="200" Grid.ColumnSpan="2"
+                       Foreground="Cornsilk" Margin="10 0 10 10"
+                       Text="WELCOME!" HorizontalAlignment="Center"
+                       FontSize="40" VerticalAlignment="Center"
+                       FontWeight="DemiBold" Panel.ZIndex="0">
+        </TextBlock>
+    </Grid>
+</Window>

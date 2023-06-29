@@ -1,0 +1,63 @@
+﻿<Window x:Class="MVVM_Pet_2.View.AddEditPetWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_Pet_2.View"
+        xmlns:vm="clr-namespace:MVVM_Pet_2.ViewModel"
+        mc:Ignorable="d"
+        Title="" Height="400" Width="420"
+        x:Name="addEditPetWindow">
+    <Window.DataContext>
+        <vm:AddEditPetWindowViewModel/>
+    </Window.DataContext>
+    
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="Width" Value="260"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Margin="5">
+            <TextBlock Text="№ паспорта"/>
+            <TextBlock Text="Кличка"/>
+            <TextBlock Text="Тип"/>
+            <TextBlock Text="Дата народження"/>
+            <TextBlock Text="Вік"/>
+            <TextBlock Text="Порода"/>
+            <TextBlock Text="Колір"/>
+            <TextBlock Text="Доп. інформация"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="5">
+            <TextBox Text="{Binding PetPassport}"/>
+            <TextBox Text="{Binding PetName}"/>
+            <TextBox Text="{Binding PetType}"/>
+               
+            <!--<TextBox Text="{Binding PetDateOfBirth, StringFormat='dd/MM/yy'}"/>-->
+            <DatePicker SelectedDate="{Binding PetDateOfBirth}" Margin="4 0 4 4" 
+                        HorizontalAlignment="Left" Width="260"
+                        SelectedDateFormat="Short" DisplayDate="12/01/2015" DisplayDateStart="12/01/2015"/>
+
+            <TextBox Text="{Binding PetAge}"/>
+            <TextBox Text="{Binding PetBreed}"/>
+            <TextBox Text="{Binding PetColor}"/>
+            <TextBox Text="{Binding PetInfo}" Style="{x:Null}" Margin="5" Width="260" HorizontalAlignment="Left" Height="100"/>
+        </StackPanel>
+        <Canvas Grid.Column="1">
+            <Button x:Name="createButton" Content="Створити" IsDefault="True" Command="{Binding CreatePetCommand}" CommandParameter="{Binding ElementName=addEditPetWindow}" Width="60" Canvas.Bottom="10" Canvas.Right="165"/>
+            <Button x:Name="editButton" Content="Редагувати" Command="{Binding EditPetCommand}" CommandParameter="{Binding ElementName=addEditPetWindow}" Width="85" Canvas.Bottom="10" Canvas.Right="70"/>
+            <Button Content="Відміна" IsCancel="True" Width="50" Canvas.Bottom="10" Canvas.Right="10"/>
+        </Canvas>
+    </Grid>
+</Window>

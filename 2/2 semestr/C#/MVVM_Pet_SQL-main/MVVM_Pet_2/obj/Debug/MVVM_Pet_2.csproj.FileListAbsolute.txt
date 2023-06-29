@@ -1,0 +1,220 @@
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\MVVM_Pet_2.exe.config
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\MVVM_Pet_2.exe
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\MVVM_Pet_2.pdb
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Buffers.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Memory.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Buffers.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Memory.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.AssemblyReference.cache
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\MainWindow.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\PetsWindow.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\App.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2_MarkupCompile.cache
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2_MarkupCompile.lref
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\MainWindow.baml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\PetsWindow.baml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.g.resources
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.Properties.Resources.resources
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.GenerateResource.cache
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.CoreCompileInputs.cache
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.CopyComplete
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.exe
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.pdb
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\ClientsWindow.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\ClientsWindow.baml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\MessageView.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\MessageView.baml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\AddEditPetWindow.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\AddEditPetWindow.baml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\AddEditClientWindow.g.cs
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\obj\Debug\View\AddEditClientWindow.baml
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\log4net.dll
+C:\Users\Деня\source\repos\MVVM_Pet_2\MVVM_Pet_2\bin\Debug\log4net.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\MVVM_Pet_2.exe.config
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\MVVM_Pet_2.exe
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\MVVM_Pet_2.pdb
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\log4net.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Buffers.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Memory.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\log4net.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Buffers.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Memory.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.AssemblyReference.cache
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\PetsWindow.baml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\AddEditClientWindow.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\AddEditPetWindow.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\ClientsWindow.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\MainWindow.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\MessageView.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\PetsWindow.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\App.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2_MarkupCompile.cache
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2_MarkupCompile.lref
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\AddEditClientWindow.baml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\AddEditPetWindow.baml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\ClientsWindow.baml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\MainWindow.baml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\View\MessageView.baml
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.g.resources
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.Properties.Resources.resources
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.GenerateResource.cache
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.csproj.CopyComplete
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.exe
+C:\Users\ACER 3\Desktop\praktyka final\MVVM_Pet_SQL-main\MVVM_Pet_2\obj\Debug\MVVM_Pet_2.pdb
