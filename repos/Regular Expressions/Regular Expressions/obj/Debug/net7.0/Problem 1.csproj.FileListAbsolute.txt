@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net7.0\Problem 1.exe
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net7.0\Problem 1.deps.json
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net7.0\Problem 1.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net7.0\Problem 1.dll
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net7.0\Problem 1.pdb
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.dll
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\refint\Problem 1.dll
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.pdb
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\Problem 1.genruntimeconfig.cache
+C:\Users\ACER 3\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net7.0\ref\Problem 1.dll

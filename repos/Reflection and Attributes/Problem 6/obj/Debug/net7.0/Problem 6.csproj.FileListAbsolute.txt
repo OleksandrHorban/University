@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\bin\Debug\net7.0\Problem 6.exe
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\bin\Debug\net7.0\Problem 6.deps.json
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\bin\Debug\net7.0\Problem 6.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\bin\Debug\net7.0\Problem 6.dll
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\bin\Debug\net7.0\Problem 6.pdb
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.dll
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\refint\Problem 6.dll
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.pdb
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\Problem 6.genruntimeconfig.cache
+C:\Users\ACER 3\source\repos\Reflection and Attributes\Problem 6\obj\Debug\net7.0\ref\Problem 6.dll

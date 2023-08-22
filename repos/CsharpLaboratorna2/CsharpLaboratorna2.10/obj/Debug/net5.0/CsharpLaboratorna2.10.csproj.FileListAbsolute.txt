@@ -1,0 +1,16 @@
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\CsharpLaboratorna2.10.exe
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\CsharpLaboratorna2.10.deps.json
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\CsharpLaboratorna2.10.runtimeconfig.json
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\CsharpLaboratorna2.10.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\CsharpLaboratorna2.10.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\ref\CsharpLaboratorna2.10.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\bin\Debug\net5.0\CsharpLaboratorna2.10.pdb
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\ref\CsharpLaboratorna2.10.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.pdb
+C:\Users\ACER 3\source\repos\CsharpLaboratorna2\CsharpLaboratorna2.10\obj\Debug\net5.0\CsharpLaboratorna2.10.genruntimeconfig.cache

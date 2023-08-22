@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\bin\Debug\net7.0\Problem 7.exe
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\bin\Debug\net7.0\Problem 7.deps.json
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\bin\Debug\net7.0\Problem 7.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\bin\Debug\net7.0\Problem 7.dll
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\bin\Debug\net7.0\Problem 7.pdb
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.dll
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\refint\Problem 7.dll
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.pdb
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\Problem 7.genruntimeconfig.cache
+C:\Users\ACER 3\source\repos\Iterators And Comparators\Problem 7\obj\Debug\net7.0\ref\Problem 7.dll

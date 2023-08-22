@@ -1,0 +1,16 @@
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\Теоріяалгоритмів3.exe
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\Теоріяалгоритмів3.deps.json
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\Теоріяалгоритмів3.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\Теоріяалгоритмів3.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\Теоріяалгоритмів3.dll
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\ref\Теоріяалгоритмів3.dll
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\bin\Debug\net5.0\Теоріяалгоритмів3.pdb
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.dll
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\ref\Теоріяалгоритмів3.dll
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.pdb
+C:\Users\ACER 3\source\repos\Теоріяалгоритмів3\Теоріяалгоритмів3\obj\Debug\net5.0\Теоріяалгоритмів3.genruntimeconfig.cache

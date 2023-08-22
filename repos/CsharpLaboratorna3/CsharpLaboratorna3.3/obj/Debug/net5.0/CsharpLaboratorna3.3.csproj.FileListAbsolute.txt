@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\CsharpLaboratorna3.3.exe
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\CsharpLaboratorna3.3.deps.json
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\CsharpLaboratorna3.3.runtimeconfig.json
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\CsharpLaboratorna3.3.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\CsharpLaboratorna3.3.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\ref\CsharpLaboratorna3.3.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\bin\Debug\net5.0\CsharpLaboratorna3.3.pdb
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\ref\CsharpLaboratorna3.3.dll
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.pdb
+C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.3\obj\Debug\net5.0\CsharpLaboratorna3.3.genruntimeconfig.cache

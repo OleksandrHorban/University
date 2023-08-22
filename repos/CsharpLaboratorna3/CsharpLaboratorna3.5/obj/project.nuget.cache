@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4VSUbOzw8h3Iw5HGF6vHtBgq+Fz+covQbvV6URodynCx2Go+c6WvcZ68QUYldZfvx2dIUXoM8ll1HSP5AwBEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER 3\\source\\repos\\CsharpLaboratorna3\\CsharpLaboratorna3.5\\CsharpLaboratorna3.5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER 3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ACER 3\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ACER 3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ACER 3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

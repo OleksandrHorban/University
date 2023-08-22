@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\bin\Debug\net7.0\Problem 8.exe
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\bin\Debug\net7.0\Problem 8.deps.json
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\bin\Debug\net7.0\Problem 8.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\bin\Debug\net7.0\Problem 8.dll
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\bin\Debug\net7.0\Problem 8.pdb
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.dll
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\refint\Problem 8.dll
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.pdb
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\Problem 8.genruntimeconfig.cache
+C:\Users\ACER 3\source\repos\Strings, Dictionaries, Lambda and LINQ\Problem 8\obj\Debug\net7.0\ref\Problem 8.dll

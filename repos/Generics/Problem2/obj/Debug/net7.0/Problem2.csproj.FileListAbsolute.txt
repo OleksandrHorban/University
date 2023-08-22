@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\Generics\Problem2\bin\Debug\net7.0\Problem2.exe
+C:\Users\ACER 3\source\repos\Generics\Problem2\bin\Debug\net7.0\Problem2.deps.json
+C:\Users\ACER 3\source\repos\Generics\Problem2\bin\Debug\net7.0\Problem2.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Generics\Problem2\bin\Debug\net7.0\Problem2.dll
+C:\Users\ACER 3\source\repos\Generics\Problem2\bin\Debug\net7.0\Problem2.pdb
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.dll
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\refint\Problem2.dll
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.pdb
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\Problem2.genruntimeconfig.cache
+C:\Users\ACER 3\source\repos\Generics\Problem2\obj\Debug\net7.0\ref\Problem2.dll
