@@ -1,4 +1,0 @@
-C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.5\obj\Debug\net5.0\CsharpLaboratorna3.5.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.5\obj\Debug\net5.0\CsharpLaboratorna3.5.AssemblyInfoInputs.cache
-C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.5\obj\Debug\net5.0\CsharpLaboratorna3.5.AssemblyInfo.cs
-C:\Users\ACER 3\source\repos\CsharpLaboratorna3\CsharpLaboratorna3.5\obj\Debug\net5.0\CsharpLaboratorna3.5.csproj.CoreCompileInputs.cache
