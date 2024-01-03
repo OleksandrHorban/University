@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\bin\Debug\net7.0\4.exe
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\bin\Debug\net7.0\4.deps.json
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\bin\Debug\net7.0\4.runtimeconfig.json
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\bin\Debug\net7.0\4.dll
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\bin\Debug\net7.0\4.pdb
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.AssemblyInfo.cs
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.dll
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\refint\4.dll
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.pdb
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\4.genruntimeconfig.cache
+C:\Users\sasha\source\repos\Perceptron\WhatIsLove project\obj\Debug\net7.0\ref\4.dll

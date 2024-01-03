@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Perceptron2/1.0.0": {
+        "runtime": {
+          "Perceptron2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perceptron2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\Perceptron\Perceptron\bin\Debug\net7.0\Perceptron.exe
+C:\Users\sasha\source\repos\Perceptron\Perceptron\bin\Debug\net7.0\Perceptron.deps.json
+C:\Users\sasha\source\repos\Perceptron\Perceptron\bin\Debug\net7.0\Perceptron.runtimeconfig.json
+C:\Users\sasha\source\repos\Perceptron\Perceptron\bin\Debug\net7.0\Perceptron.dll
+C:\Users\sasha\source\repos\Perceptron\Perceptron\bin\Debug\net7.0\Perceptron.pdb
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.AssemblyInfo.cs
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.dll
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\refint\Perceptron.dll
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.pdb
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\Perceptron.genruntimeconfig.cache
+C:\Users\sasha\source\repos\Perceptron\Perceptron\obj\Debug\net7.0\ref\Perceptron.dll
